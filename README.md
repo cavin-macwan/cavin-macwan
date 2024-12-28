@@ -27,12 +27,12 @@
 
 <b>My GitHub Stats</b>
  
-<a href="http://www.github.com/Cavin6080"><img src="https://github-readme-stats.vercel.app/api?username=Cavin6080&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Cavin6080's GitHub stats" /></a>
+<a href="http://www.github.com/cavin-macwan"><img src="https://github-readme-stats.vercel.app/api?username=cavin-macwan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cavin-macwan's GitHub stats" /></a>
 
-<a href="http://www.github.com/Cavin6080"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cavin6080&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/cavin-macwan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cavin-macwan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Cavin6080/SayIt" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cavin6080&repo=SayIt&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/cavin-macwan/SayIt" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cavin-macwan&repo=SayIt&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
