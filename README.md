@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 My name is Cavin Macwan</h1>
 
-<h3 align="center">Co-founder of Meticha | Mobile App Architect | Open Source Enthusiast</h3>
+<h3 align="center">Co-Founder of Meticha | Mobile App Architect | Open Source Enthusiast</h3>
 <h3 align="center">Contributor on Stackoverflow & GitHub | A Technophile ✌ and Blogger 👨‍💻
 </h3>
 
