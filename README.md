@@ -4,7 +4,7 @@
 <h3 align="center">Contributor on Stackoverflow & GitHub | A Technophile ✌ and Blogger 👨‍💻
 </h3>
 
-[![@cavin's Holopin board](https://holopin.me/cavin)](https://holopin.io/@cavin)
+[![@cavin's Holopin board](cavin-macwan-banner.png)
 
  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
