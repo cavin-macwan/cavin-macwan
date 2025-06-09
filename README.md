@@ -1,4 +1,4 @@
-![@cavin's banner](banner/cavin-banner.png)
+![@cavin's banner](https://github.com/user-attachments/assets/d5679df5-55c9-488a-a60e-4865c2110989)
 
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/gAN1p2C9Z2QAAAAM/hello.gif">
 
