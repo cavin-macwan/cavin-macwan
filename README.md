@@ -11,7 +11,8 @@ I enjoy creating tools that simplify mobile development, sharing practical knowl
 ## 🚀 Featured Projects
 
 - 📦 [**Jetpack Compose Boilerplate**](https://github.com/cavin-macwan/jetpack-boilerplate) – A template repository that contains the necessary libraries and stuff to directly get started
-- 🎨 [**Material 3 Expresssive Catalog**](https://github.com/cavin-macwan/material-3-expressive-catalog) - Expressive Material 3 UI components catalog built with Jetpack Compose developers
+- 📚 [**Compose Multiplatform Library Template**](https://github.com/meticha/compose-multiplatform-library-template) – Kickstart your Compose Multiplatform library with zero setup hassle
+- 🎨 [**Material 3 Expresssive Catalog**](https://github.com/meticha/material-3-expressive-catalog) - Expressive Material 3 UI components catalog built with Jetpack Compose developers
 - ⚡ [**TriggerX**](https://github.com/meticha/triggerx) – A modular and developer-friendly alarm execution library for Android
 - 🎨 [**Permissions Compose**](https://github.com/meticha/permissions-compose) – Simplified permission handling in Compose  
 - 🧱 [**Jetpack Compose Design Patterns**](https://github.com/meticha/jetpack-compose-design-patterns): A living catalog of Jetpack Compose design patterns
