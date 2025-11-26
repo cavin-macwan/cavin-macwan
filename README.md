@@ -2,7 +2,7 @@
 
 <!-- <img align="right" alt="Coding" width="200" src="https://media.tenor.com/gAN1p2C9Z2QAAAAM/hello.gif"> -->
 
-## 👨‍💻 Crafting snappy Android UIs with Compose & Flutter. Writing clean code. Building in public.
+## 👨‍💻 Crafting snappy UIs with Compose & Flutter. Writing clean code. Building in public.
 
 ### 👋 About Me
 
@@ -22,7 +22,10 @@ I enjoy creating tools that simplify mobile development, sharing practical knowl
 ## ✍️ Latest Blogs from [cavinmacwan.com](https://cavinmacwan.com)
 
 - 🔄 [Why Kotlin Uses Coroutines](https://www.cavinmacwan.com/articles/why-kotlin-uses-coroutines)  
-- ⚙️ [Master Permission Handling in Jetpack Compose](https://www.cavinmacwan.com/articles/master-permission-handling-in-jetpack-compose)  
+- ⚙️ [Master Permission Handling in Jetpack Compose](https://www.cavinmacwan.com/articles/master-permission-handling-in-jetpack-compose)
+- 🧮 [Inherided Widgets in-depth](https://medium.com/@CavinMac/inherited-widgets-in-depth-413794c3b3d9)
+- 📱 [WidgetBook Crash Course in Flutter](https://medium.com/@CavinMac/widgetbook-in-flutter-crash-course-in-code-generation-approach-3f057cafac74)
+- 📜 [Master Scrolling in Flutter](https://medium.com/@CavinMac/master-scrolling-in-flutter-part-1-db127dee765a)
 
 👉 [View All Blogs](https://www.cavinmacwan.com/articles)
 
@@ -30,7 +33,7 @@ I enjoy creating tools that simplify mobile development, sharing practical knowl
 
 ## 🤝 Let’s Collaborate!
 
-Have an idea, feedback, or just want to jam on Android stuff? Join our growing dev community on Discord:
+Have an idea, feedback, or just want to jam on Android/Flutter stuff? Join our growing dev community on Discord:
 
 [![Join our Discord](https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/p3SC9ZKzb6)
 
