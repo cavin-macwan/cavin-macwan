@@ -1,6 +1,6 @@
 ![@cavin's banner](https://github.com/user-attachments/assets/6866b709-d867-4794-b25b-af650a665601)
 
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/gAN1p2C9Z2QAAAAM/hello.gif">
+<!-- <img align="right" alt="Coding" width="200" src="https://media.tenor.com/gAN1p2C9Z2QAAAAM/hello.gif"> -->
 
 ## 👨‍💻 Crafting snappy Android UIs with Compose & Flutter. Writing clean code. Building in public.
 
